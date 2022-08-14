@@ -1,5 +1,3 @@
-//esse arquivo é criado para que o App da aplicação não fique com muitos imports e o código fique muito extenso
-
 import Billing from './Billing';
 import Business from './Business';
 import Button from './Button';
@@ -29,3 +27,5 @@ export {
    Stats,
    Testimonials      
 };
+
+//esse arquivo é criado para que o App da aplicação não fique com muitos imports e o código fique muito extenso

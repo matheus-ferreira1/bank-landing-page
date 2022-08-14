@@ -26,3 +26,5 @@ const styles = {
  };
  
  export default styles;
+
+ //esse arquivo é criado para que os components no App.jsx não fiquem muito verbosos ao colocar todas as classes nativas do tailwind
