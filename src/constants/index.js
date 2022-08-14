@@ -1,3 +1,5 @@
+//nesse arquivo todoo conteúdo do site é disponibilizado para que a criação do componente se resuma através de um loop no respectivo item
+
 import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
